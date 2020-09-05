@@ -4,10 +4,10 @@
 
 目前已包含
 
-- 网络流
+- [网络流](https://zzzcd0x.github.io/post/wang-luo-liu-chu-bu/)
   - 最大流
   - 最小费用最大流
-- Tarjan
+- [Tarjan](https://zzzcd0x.github.io/post/tarjan/)
   - [割点](https://www.luogu.com.cn/problem/P3388)
   - [强连通分量](https://www.luogu.com.cn/problem/P3387)
 
