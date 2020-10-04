@@ -10,4 +10,7 @@
 - [Tarjan](https://zzzcd0x.github.io/post/tarjan/)
   - [割点](https://www.luogu.com.cn/problem/P3388)
   - [强连通分量](https://www.luogu.com.cn/problem/P3387)
+- [线段树](https://zzzcd0x.github.io/post/SegmentTree/)
+  - 区间最值
+  - 区间和
 
